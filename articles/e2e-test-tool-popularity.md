@@ -1,6 +1,6 @@
 ---
 title: "2025年版最新版：注目のWebアプリテストツールの人気度！"
-emoji: "✨"
+emoji: "📈"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["E2Eテスト", "Cypress", "Playwright", "Puppeteer", "Selenium"]
 published: true
