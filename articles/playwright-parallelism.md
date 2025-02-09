@@ -110,7 +110,7 @@ https://playwright.dev/docs/test-sharding
 
 ## Github Actionsでのシャーディング例
 
-PlaywrightテストをCIに組み込むことで、好きなタイミングで自動的にE2Eテストを実行し、リグレッション（退行）バグを早期に検出できます。今
+PlaywrightテストをCIに組み込むことで、好きなタイミングで自動的にE2Eテストを実行し、リグレッションを早期に検出できます。
 
 さぁ、次はGitHub Actionsでシャーディングを設定する方法を見てみましょう。
 
