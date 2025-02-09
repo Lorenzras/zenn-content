@@ -1,9 +1,9 @@
 ---
 title: "【Playwright】並列機能とシャーディングでテスト実行時間を大幅短縮！GitHub"
-emoji: "✨"
+emoji: "🏎️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["E2Eテスト", "Playwright", "GitHubActions", "CI", "並列処理"]
-published: false
+published: true
 ---
 ## 初めに
 
