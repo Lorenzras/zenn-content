@@ -35,7 +35,7 @@ https://playwright.dev/
 https://www.selenium.dev/documentation/webdriver/
 
 
-:::note warn
+:::message
 注意
 Selenium WebDriverは、他のツールとは異なり、単体ではテストフレームワークとして機能しません。これは（ブラウザの自動化を行う）ツールに過ぎません。ウェブアプリのテストを行うには、MochaやJestなどのテストフレームワークと組み合わせて使用する必要があります。
 :::
